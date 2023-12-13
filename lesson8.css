@@ -54,7 +54,7 @@ height: 320px;
 .pocemon-block-back{
     width: 230px;
     height: 320px;
-    background: url(https://c4.wallpaperflare.com/wallpaper/724/474/485/pokemon-go-logo-minimalism-wallpaper-preview.jpg)center/cover;
+    background: url(./pokemon-go-logo-minimalism-wallpaper-preview.jpg)center/cover;
     position: absolute;
     backface-visibility: hidden;
     border-radius: 15px;
